@@ -1,0 +1,171 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+.container {
+     width: 943px;
+     margin: 0 auto;
+ }
+ .header {
+     background-color: white;
+
+ }
+ .head-ico {
+     padding-top: 33px;
+     padding-bottom: 32px;
+     display: flex;
+     align-items: center;
+     justify-content: space-around;
+ }
+ .link-item {
+        list-style-type: none;
+ }
+ .line {
+     width: 100%;
+     height: 1px;
+     background-color: #828282;
+ }
+ .title-top {
+     padding-top: 39px;
+     padding-bottom: 50px;
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+ }
+ .title-top p {
+     font-size: 18px;
+ }
+ .title-top h1 {
+     font-size: 47px;
+
+ }
+ .photo {
+     padding-bottom: 104px;
+ }
+
+
+ .section2 {
+
+     background-color: #F6F6F6;
+ }
+ .block-text {
+     padding-top: 120px;
+     padding-bottom: 107px;
+     font-size: 18px;
+     margin: 0 auto;
+     width: 485px;
+
+     text-align: center;
+ }
+ .h1-section2 {
+     padding-bottom: 18px;
+     margin: 0;
+     font-size: 34px;
+ }
+ .block-text p {
+     margin: 0;
+ }
+ .section3-h1 {
+     font-size: 34px;
+     padding-top: 91px;
+     text-align: center;
+ }
+ .section3-p {
+     font-size: 18px;
+     text-align: center;
+     padding-top: 69px;
+     padding-bottom: 84px;
+
+ }
+.item-list {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.img{
+    width: 88px;
+    height: 88px;
+}
+.star {
+    width: 166px;
+    height: 26px;
+    padding-bottom: 110px;
+}
+.item-img-last p {
+    padding-bottom: 18px;
+}
+.item-img-last .img {
+    width: 58px;
+    height: 88px;
+}
+.h1-section4 {
+    text-align: center;
+    padding-top: 113px;
+}
+.section3 {
+    background-color: #F6F6F6;
+}
+.white-fon {
+    text-align: center;
+    padding-top: 47px;
+}
+.white-fon img {
+    padding-bottom: 45px;
+}
+.photo-3 {
+    padding-top: 99px;
+}
+.photo-5 {
+    padding-top: 99px;
+    padding-bottom: 49px;
+}
+.last-button {
+    display: block;
+    padding-bottom: 96px;
+}
+.footer-title {
+    text-align: center;
+    padding-top: 114px;
+}
+.footer-desc {
+    color: #070707;
+    padding-top: 20px;
+    text-align: center;
+    padding-bottom: 40px;
+}
+.btn {
+    color: white;
+    text-align: center;
+    margin: 0 auto;
+    background-color: black;
+    border-radius: 15px;
+    width: 166px;
+    height: 38px;
+    position: relative;
+    margin-bottom: 92px;
+    cursor: pointer;
+}
+.btn-text {
+    position: absolute;
+    top: -5px;
+    left: 25px;
+}
+.link-flex {
+
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 46px;
+}
+.link-flex img {
+    padding-left: 60px;
+}
+.link-flex img:first-child {
+    margin-left: -50px;
+}
+.end {
+    text-align: center;
+    padding-bottom: 123px;
+    color: #828282;
+}
